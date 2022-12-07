@@ -33,10 +33,9 @@ change the gui because i was not satisfied.
 
 
 
-## Authors
+## Credits
 
-- [@majvax](https://www.github.com/majvax)
-- [@b1scoito](https://www.github.com/b1scoito)
+- [@b1scoito](https://www.github.com/b1scoito) for his autoclicker
 
 
 
